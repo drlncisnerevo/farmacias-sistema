@@ -61,4 +61,4 @@ instalación y ejecución.
 
 ## Autor
 
-[Nombre del estudiante] — Carné [Número de carné]
+Darlin Cisneros — Carné 1965 20 17695
