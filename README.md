@@ -70,9 +70,9 @@ farmacias-sistema/
 
 | Usuario | Contraseña | Rol |
 |---|---|---|
-| admin@farmacias.gt | admin123 | Administrador |
-| gerente@farmacias.gt | gerente123 | Gerente |
-| auditor@farmacias.gt | auditor123 | Auditor |
+| admin@farmacias.gt | 12345 | Administrador |
+| gerente@farmacias.gt | 12345 | Gerente |
+| auditor@farmacias.gt | 12345 | Auditor |
 
 > Son cuentas de demostración. En un entorno real se cambian las contraseñas y se define un `JWT_SECRET` propio.
 
